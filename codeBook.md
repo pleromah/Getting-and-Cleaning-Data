@@ -50,6 +50,6 @@ How run_analysis.R implements the above steps:
 Require data.table library.
 Load both test and train data
 Load the features and activity labels.
-Extract the mean and standard deviation column names and data.
 Process the data. There are two parts processing test and train data respectively.
 Merge data set.
+Extract the mean and standard deviation column names and data.
