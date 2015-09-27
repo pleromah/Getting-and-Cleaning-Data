@@ -14,5 +14,5 @@ Download the data source and put into your on your local drive. You'll have a UC
 Put run_analysis.R in the same folder, then set it as your working directory using setwd() function in RStudio.
 Run source("run_analysis.R"), then it will generate a new file tidy.txt in your working directory.
 
-Dependencies
+Dependencies:
 you will need to load data.table library
